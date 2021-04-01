@@ -12,8 +12,6 @@ const changelog = function () {
     console.log("");
     console.log("Generated CHANGELOG successfully!!!");
     console.log("Copy paste above to ./CHANGELOG.md");
-
 }
-
 
 changelog();
