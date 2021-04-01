@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="index.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" nameIsGenerated="true">
+    <module name="changelog-generator" />
+    <option name="interpreterRef" value="project" />
+    <option name="interpreterOptions" value="" />
+    <option name="workingDirectory" value="" />
+    <option name="tsconfigFile" value="" />
+    <option name="extraTypeScriptOptions" value="" />
+    <option name="scriptName" value="$PROJECT_DIR$/index.ts" />
+    <option name="programParameters" value="" />
+    <method v="2" />
+  </configuration>
+</component>

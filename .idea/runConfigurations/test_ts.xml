@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" nameIsGenerated="true">
+    <module name="changelog-generator" />
+    <option name="interpreterRef" value="project" />
+    <option name="interpreterOptions" value="" />
+    <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <option name="tsconfigFile" value="$PROJECT_DIR$/tsconfig.json" />
+    <option name="extraTypeScriptOptions" value="" />
+    <option name="scriptName" value="$PROJECT_DIR$/src/test.ts" />
+    <option name="programParameters" value="" />
+    <option name="tsnodePackage" value="~/WebProjects/changelog-generator/node_modules/ts-node" />
+    <method v="2" />
+  </configuration>
+</component>
