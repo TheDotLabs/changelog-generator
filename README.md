@@ -5,7 +5,7 @@ Generates CHANGELOG based on the commits since last tag
 ## 💻 Installation
 
 ```
-npm install -g https://github.com/visionmedia/express.git
+$ npm install -g https://github.com/apgapg/changelog-generator
 ```
 
 ## ❔ Usage
