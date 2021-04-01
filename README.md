@@ -5,7 +5,7 @@ Generates CHANGELOG based on the commits since last tag
 ## 💻 Installation
 
 ```
-$ npm install -g https://github.com/apgapg/changelog-generator
+$ npm install -g apgapg/changelog-generator
 ```
 
 ## ❔ Usage
