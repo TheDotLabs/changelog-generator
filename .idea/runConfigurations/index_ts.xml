@@ -8,6 +8,7 @@
     <option name="extraTypeScriptOptions" value="" />
     <option name="scriptName" value="$PROJECT_DIR$/index.ts" />
     <option name="programParameters" value="" />
+    <option name="tsnodePackage" value="~/WebProjects/changelog-generator/node_modules/ts-node" />
     <method v="2" />
   </configuration>
 </component>
