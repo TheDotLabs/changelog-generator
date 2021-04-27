@@ -1,6 +1,6 @@
 {
   "name": "@apgapg/changelog-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CHANGELOG generator using commits since last tag",
   "bin": {
     "changelog-generator": "dist/index.js"
