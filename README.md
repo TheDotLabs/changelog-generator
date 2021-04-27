@@ -42,13 +42,8 @@ Copy paste above to the ./CHANGELOG.md
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
 
-## ✨ Active Contributors 
+## ✨ Active Contributors
 
-Thanks goes to these wonderful people:
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://github.com/apgapg"><img src="https://avatars0.githubusercontent.com/u/13887407?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayush P Gupta</b></sub></a><br /></td>
