@@ -5,14 +5,14 @@ Generates CHANGELOG based on the commits since last tag
 ## 💻 Installation
 
 ```
-$ npm install -g apgapg/changelog-generator
+$ npm install -g @TheDotLabs/changelog-generator
 ```
 
 ## ❔ Usage
 
 Run following command at the root of your of project (must be a valid git project).
 ```
-$ changelog-generator
+$ @TheDotLabs/changelog-generator
 ```
 
 Sample output
