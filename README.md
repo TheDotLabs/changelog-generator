@@ -1,4 +1,4 @@
-# changelog-generator ![GitHub](https://img.shields.io/github/license/apgapg/changelog-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/apgapg/changelog-generator?style=social)
+# changelog-generator ![GitHub](https://img.shields.io/github/license/apgapg/changelog-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/apgapg/changelog-generator?style=social) ![npm](https://img.shields.io/npm/v/@apgapg/changelog-generator) ![Twitter Follow](https://img.shields.io/twitter/follow/ayushpgupta?style=social)
 
 Generates CHANGELOG based on the commits since last tag
 
