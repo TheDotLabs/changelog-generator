@@ -45,6 +45,18 @@ Copy paste above to the ./CHANGELOG.md
 ## ✨ Active Contributors
 
 <table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/apgapg>
+            <img src=https://avatars.githubusercontent.com/u/13887407?v=4 width="100;"  alt=Ayush P Gupta/>
+            <br />
+            <sub style="font-size:14px"><b>Ayush P Gupta</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
+<table>
   <tr>
     <td align="center"><a href="https://github.com/apgapg"><img src="https://avatars0.githubusercontent.com/u/13887407?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayush P Gupta</b></sub></a><br /></td>
   </tr>
